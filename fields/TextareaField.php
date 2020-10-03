@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\fields;
+namespace tompk\micromvc\fields;
 
 /**
  * Class TextareaField

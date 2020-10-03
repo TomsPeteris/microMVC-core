@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace tompk\micromvc;
 
-use app\core\db\Database;
+use tompk\micromvc\db\Database;
 
 /**
  * Class  Application

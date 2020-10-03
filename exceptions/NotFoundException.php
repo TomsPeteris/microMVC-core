@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exceptions;
+namespace tompk\micromvc\exceptions;
 
 /**
  * Class NotFoundException

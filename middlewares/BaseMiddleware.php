@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\middlewares;
+namespace tompk\micromvc\middlewares;
 
 /**
  * Class BaseMiddleware

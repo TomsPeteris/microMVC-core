@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace tompk\micromvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use tompk\micromvc\Application;
+use tompk\micromvc\Model;
 
 /**
  * Class DBModel

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace tompk\micromvc;
 
-use app\core\exceptions\NotFoundException;
+use tompk\micromvc\exceptions\NotFoundException;
 
 /**
  * Class Router

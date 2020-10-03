@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\fields;
+namespace tompk\micromvc\fields;
 
-use app\core\Model;
+use tompk\micromvc\Model;
 
 /**
  * Class BaseField

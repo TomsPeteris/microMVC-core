@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace tompk\micromvc;
 
-use app\core\fields\TextField;
-use app\core\fields\TextareaField;
+use tompk\micromvc\fields\TextField;
+use tompk\micromvc\fields\TextareaField;
 
 /**
  * Class Form

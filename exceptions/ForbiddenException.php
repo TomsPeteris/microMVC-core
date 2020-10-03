@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\exceptions;
+namespace tompk\micromvc\exceptions;
 
-use app\core\Application;
+use tompk\micromvc\Application;
 
 /**
  * Class ForbiddenException

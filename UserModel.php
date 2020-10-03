@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace tompk\micromvc;
 
-use app\core\db\DBModel;
+use tompk\micromvc\db\DBModel;
 
 /**
  * Class UserModel

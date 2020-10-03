@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace tompk\micromvc\middlewares;
 
-use app\core\Application;
-use app\core\exceptions\ForbiddenException;
+use tompk\micromvc\Application;
+use tompk\micromvc\exceptions\ForbiddenException;
 
 /**
  * Class AuthMiddleware

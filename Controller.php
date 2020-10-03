@@ -1,8 +1,8 @@
 <?php 
 
-namespace app\core;
+namespace tompk\micromvc;
 
-use app\core\middlewares\BaseMiddleware;
+use tompk\micromvc\middlewares\BaseMiddleware;
 
 /**
  * Class Controller 

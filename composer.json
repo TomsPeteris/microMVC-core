@@ -6,5 +6,10 @@
             "email": "toms.korsaks@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "tompk\\micromvc": "./"
+        }
+    },
     "require": {}
 }
