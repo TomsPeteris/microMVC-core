@@ -1,0 +1,10 @@
+{
+    "name": "tomk/micromvc-core",
+    "authors": [
+        {
+            "name": "Tom",
+            "email": "toms.korsaks@gmail.com"
+        }
+    ],
+    "require": {}
+}
